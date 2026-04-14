@@ -12,18 +12,18 @@ Este é o **Frontend** do ServLink, a plataforma que conecta a economia gig da h
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 O frontend oferece uma experiência completa para os dois perfis de usuário:
 
-### 🏢 Para Estabelecimentos
+### Para Estabelecimentos
 -   **Dashboard de Gestão:** Visão geral de vagas ativas e candidatos.
 -   **Publicação de Vagas:** Formulário intuitivo para criar novas oportunidades.
 -   **Gestão de Candidatos:** Aprovação e rejeição de perfis com um clique.
 -   **Controle de Turnos:** Monitoramento de check-in/check-out da equipe.
 -   **Pagamentos:** Histórico financeiro e transparência de comissões.
 
-### 👨‍🍳 Para Profissionais
+### Para Profissionais
 -   **Busca de Vagas:** Filtros por função, data e valor.
 -   **Candidatura Simplificada:** Aplicação para vagas com poucos cliques.
 -   **Minha Agenda:** Visualização clara dos próximos turnos.
@@ -32,7 +32,7 @@ O frontend oferece uma experiência completa para os dois perfis de usuário:
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 -   **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
 -   **Linguagem:** [TypeScript](https://www.typescriptlang.org/)
@@ -43,7 +43,7 @@ O frontend oferece uma experiência completa para os dois perfis de usuário:
 
 ---
 
-## ⚡ Como Rodar o Projeto
+## Como Rodar o Projeto
 
 ### Pré-requisitos
 -   [Node.js](https://nodejs.org/) (v18 ou superior)
@@ -79,7 +79,7 @@ O frontend oferece uma experiência completa para os dois perfis de usuário:
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src/
